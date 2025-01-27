@@ -24,4 +24,4 @@
 ### 📈 Em constante evolução  
 Sempre buscando novas formas de fortalecer a segurança cibernética e otimizar processos.  
 
-📩 **Vamos conectar?** Me encontre no [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jackson-amatti-a0503130a/)) ou explore meus projetos por aqui!  
+📩 **Vamos conectar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/jackson-amatti-a0503130a/) ou explore meus projetos por aqui!  
