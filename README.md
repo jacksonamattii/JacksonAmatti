@@ -21,6 +21,9 @@
 
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2358181" style='border:none;'></iframe>
+
+
 ### 📈 Em constante evolução  
 Sempre buscando novas formas de fortalecer a segurança cibernética e otimizar processos.  
 
